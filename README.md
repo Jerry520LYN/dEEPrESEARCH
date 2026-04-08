@@ -442,8 +442,7 @@ class ResearchAgent(BaseAgent):
 ## 📧 联系方式
 
 - 项目问题: [GitHub Issues](https://github.com/your-repo/issues)
-- 邮件联系: your-email@example.com
-- 社区讨论: [Discussions](https://github.com/your-repo/discussions)
+- 邮件联系: 19166910919@163.com
 
 ## 🌟 Star History
 
